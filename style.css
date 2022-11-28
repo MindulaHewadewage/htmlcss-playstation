@@ -1,0 +1,11 @@
+header{
+    min-height: 100px;
+    background-color: black;
+}
+
+
+
+.jumbotron{
+    min-height: 600px;
+    background-color: lightgray;
+}
