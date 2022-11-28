@@ -6,6 +6,16 @@ header{
 
 
 .jumbotron{
+    background-image: url('img/jumbo-bg.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position-x: left;
+
+    min-height: 600px;
+}
+
+
+.playstation-5{
     min-height: 600px;
     background-color: lightgray;
 }
