@@ -69,15 +69,17 @@ header{
     padding-top: 50px;
     padding-bottom: 50px;
 }
-
+/* FOOTER */
 
 footer{
     background-color: #00439C;
-    min-height: 800px;
     padding-top: 50px;
     padding-bottom: 50px;
 }
 
+.footer-bottom img{
+    width: 25%;
+}
 
 footer li a{
     text-decoration: none;
