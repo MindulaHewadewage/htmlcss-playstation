@@ -53,3 +53,12 @@ header{
 .plus{
     background-color:#BEBCBB ;
 }
+
+.store{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.now{
+    background-color: #161C3B;
+}
