@@ -14,6 +14,10 @@ header{
 }
 
 
+.bs-card-bg{
+    background-color: transparent;
+}
+
 .playstation-5{
     min-height: 600px;
     background-color: lightgray;
@@ -27,3 +31,9 @@ header{
     background-position: center;
 
 }
+
+.new-releases{
+    min-height: 400px;
+    background-color: #1F1F1F;
+}
+
