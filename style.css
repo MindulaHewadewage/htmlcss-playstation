@@ -18,18 +18,18 @@ section{
     padding-bottom: 50px;
 }
 
-
+/* CARD */
 
 .bs-card-bg{
     background-color: transparent;
 }
 
-.playstation-5{
-    min-height: 600px;
-    background-color: lightgray;
-
+.card{
+    border-width: 0;
 }
 
+
+/* TAKES TWO */
 .takes-two{
     min-height: 600px;
     background-image: url('img/it-takes-two-hero-banner-desktop.jpg');
@@ -38,6 +38,8 @@ section{
     background-position: center;
 
 }
+
+-takes-two
 
 .new-releases{
     min-height: 400px;
@@ -71,10 +73,6 @@ section{
     width: 50%;
 }
 
-.social{
-    padding-top: 50px;
-    padding-bottom: 50px;
-}
 /* FOOTER */
 
 footer{
