@@ -61,4 +61,31 @@ header{
 
 .now{
     background-color: #161C3B;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.social{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+footer{
+    background-color: #00439C;
+    min-height: 800px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+
+footer li a{
+    text-decoration: none;
+    color: white;
+
+}
+
+footer ul{
+    list-style-type: none;
+
 }
